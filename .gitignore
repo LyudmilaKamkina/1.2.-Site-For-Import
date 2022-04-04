@@ -7,4 +7,4 @@
 
 # игнорировать файлы Thumbs.db и .Db_Store
 Thumbs.db
-.Db_Store
+.DS_Store
